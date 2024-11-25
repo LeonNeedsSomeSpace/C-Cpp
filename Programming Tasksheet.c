@@ -95,6 +95,6 @@ int main() { //Function 'int main();'... MUST BE INCLUDED IN EVERY C/C++ FILE (e
 
 
 
-	return 0; 
+	return 0; //Ensures program will function
 
 }
