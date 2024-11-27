@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-//Recreate Fibonacci's sequence using a program
+//Recreate Fibonacci's sequence 
 
 //define a function that accepts a as an integer
 int Fibonacci(int a) {
