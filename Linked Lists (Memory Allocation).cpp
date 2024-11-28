@@ -42,7 +42,7 @@ int main() {
 
 
 	//Link the nodes
-	//This is a single linked list as it can only point forwards
+	//This is a single linked list as it can only point forward
 	//Instruct which node will point to which other node 
 
 	first->next = second;
