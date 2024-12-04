@@ -9,7 +9,7 @@
 
 struct Node {
 
-	int data;  //Define the data type you want to store. In this case we use integers
+	int data;  //Define the data type you want to store. 
 	struct Node* next;  //Create a pointer that points from one node to the next one
 
 };
